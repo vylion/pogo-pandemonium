@@ -1,0 +1,17 @@
+{
+  "name": "pogo-pandemonium",
+  "version": "1.0.0",
+  "description": "That minigame from Crash Bash",
+  "main": "pixi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keyboardjs": "^0.4.3",
+    "mouse-event": "^1.0.5"
+  },
+  "devDependencies": {}
+}
